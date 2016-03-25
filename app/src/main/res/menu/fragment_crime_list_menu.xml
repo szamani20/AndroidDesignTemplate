@@ -10,7 +10,7 @@
 
     <item
         android:id="@+id/menu_item_show_subtitle"
-        android:showAsAction="ifRoom"
+        app:showAsAction="ifRoom"
         android:title="@string/show_subtitle"/>
 
 </menu>
